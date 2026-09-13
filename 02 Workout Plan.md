@@ -351,3 +351,41 @@ Focus on:
 - Light normal activity
 - Preparing food for the week
 > Muscle growth happens during recovery, not only during training.
+
+---
+
+# Progressive Overload Plan
+
+Muscle only grows when it is forced to do something it has not done before. This principle is called **Progressive Overload**.
+
+---
+
+## 📈 How to Apply It With Your Equipment
+
+**1. Weeks 1–2:** Focus purely on learning correct form with light weights. Don't chase heavy weight yet.
+
+**2. From Week 3 onward,** use this simple rule for every exercise:
+
+| If you... | Then... |
+|---|---|
+| Complete all sets at the **top** of your rep range (e.g., 4×12 on rows) with good form | Increase the weight slightly next session (add the smallest plates you have, e.g., 3kg per side) and drop back to the **bottom** of the rep range (e.g., 4×10) |
+| Can't complete the **minimum** reps in your target range | Keep the same weight next session and try again |
+
+**3. When you run out of weight plates** (since your max is limited), increase difficulty by:
+
+- Slowing down the movement (3–4 second lowering phase)
+- Adding an extra set
+- Reducing rest time between sets slightly (e.g., 90 sec → 75 sec)
+- Switching to single-arm/single-leg versions (harder with the same weight)
+- Pausing 1–2 seconds at the hardest point of the exercise (e.g., holding the bottom of a squat or floor press)
+- **For pull-ups specifically:** add reps first, then slow negatives, then eventually a backpack with light books for added weight
+
+---
+
+## ⏳ General Timeline of Expectations
+
+| Timeframe | What's Happening |
+|---|---|
+| **Weeks 1–4** | Learning phase — strength gains mostly come from your nervous system getting efficient, not real muscle yet |
+| **Weeks 5–12** | Real, visible muscle growth begins, if diet and consistency are right |
+| **After 12 weeks** | Reassess weights, reps, and consider a slight program change to keep progressing |
